@@ -10,3 +10,5 @@ What is the benefit of having a copy of the last known state of the remote store
 to combine conflicting changes form multiple people.
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 We can use to send the module and someone gonna combine. Git is easier but need practice where as e-mail is easy but harder in long codes.
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+When I am not sure wether the merging with master would be error free. Merging with master do not need to create seperate branch where as in branch n/w, the diagram need to by hearted.
