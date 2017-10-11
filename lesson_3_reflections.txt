@@ -7,5 +7,6 @@ forks is used to clone same repository within the github.
 Clones are used to create copy of repository locally or from github.
 branches are done locally for example to create different version for distribution.
 What is the benefit of having a copy of the last known state of the remote stored locally?
-
 to combine conflicting changes form multiple people.
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+We can use to send the module and someone gonna combine. Git is easier but need practice where as e-mail is easy but harder in long codes.
